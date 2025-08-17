@@ -1,8 +1,5 @@
 # Visualizing Causal Chain of Heat Stress: A Three-Layer Network Analysis of Climate, Energy, and Socioeconomic Systems in South Asia
-
-**Visualizing Causal Chain of Heat Stress**  
-A Three-Layer Network Analysis of Climate, Energy, and Socioeconomic Systems in South Asia
-
+熱ストレスがもたらす因果連鎖の可視化：南アジアにおける気候・エネルギー・社会経済の三層ネットワーク分析
 ---
 
 ## 概要
@@ -61,7 +58,7 @@ WBGT ≈ 0.7·Tw + 0.3·T（日射なし近似）を採用
 1. `01_download_era5.ipynb`：ERA5 ダウンロード → RH → WBGT → 国別年平均 CSV
 2. `02_build_wdi.ipynb`：WDI 指標の取得・整形
 3. `03_merge_and_standardize.ipynb`：パネル結合・標準化・補間
-4. `04_causal_discovery_notears.ipynb`：マスク付き NOTEARS で *W* 推定、しきい値で疎化、エッジ出力
+4. `04_causal_discovery_notears.ipynb`：マスク付き NOTEARS で 𝑊 推定、しきい値で疎化、エッジ出力
 5. `05_llm_validation.ipynb`：Ollama(Mistral) で背景知識照合 → 矛盾エッジ除去・再構築
 6. `06_do_interventions.ipynb`：𝑇=(𝐼−𝑊)^{−1}−𝐼を計算、介入効果のヒートマップ
 7. `07_visualizations.ipynb`：国別ネットワーク図・指標比較図の生成
