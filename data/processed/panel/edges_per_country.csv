@@ -1,0 +1,220 @@
+country,source,target,weight
+Bangladesh,mean_wbgt,renewable_energy_pct,-0.0005009003630182744
+Bangladesh,fossil_fuel_pct,renewable_energy_pct,-1.3522643115386433e-06
+Bangladesh,electricity_per_capita,renewable_energy_pct,0.07871300109932027
+Bangladesh,co2_per_capita,renewable_energy_pct,-0.36421719645456074
+Bangladesh,renewable_energy_pct,fossil_fuel_pct,-1.6790696819678035
+Bangladesh,mean_wbgt,electricity_per_capita,7.325747766206457e-05
+Bangladesh,fossil_fuel_pct,electricity_per_capita,2.837950835614538e-05
+Bangladesh,fossil_fuel_pct,co2_per_capita,1.0853751731648685e-05
+Bangladesh,electricity_per_capita,co2_per_capita,0.8851775212552784
+Bangladesh,renewable_energy_pct,gdp_per_capita,-7.107669498823505e-06
+Bangladesh,fossil_fuel_pct,gdp_per_capita,8.722527172958757e-05
+Bangladesh,unemployment_rate,gdp_per_capita,0.0020842554252424724
+Bangladesh,health_expenditure_pct,gdp_per_capita,1.1055951296017324e-05
+Bangladesh,agri_valueadded_pct,gdp_per_capita,-1.6457773803431198e-06
+Bangladesh,urbanization_pct,gdp_per_capita,2.4906563137047394e-06
+Bangladesh,fossil_fuel_pct,unemployment_rate,2.3064233062793248e-05
+Bangladesh,co2_per_capita,unemployment_rate,-1.1739674141668747e-05
+Bangladesh,health_expenditure_pct,unemployment_rate,6.215199707669801e-06
+Bangladesh,urbanization_pct,unemployment_rate,3.21384878785163e-06
+Bangladesh,renewable_energy_pct,health_expenditure_pct,-0.04453555820987278
+Bangladesh,fossil_fuel_pct,health_expenditure_pct,1.4736271786667154
+Bangladesh,electricity_per_capita,health_expenditure_pct,-0.617409837715603
+Bangladesh,co2_per_capita,health_expenditure_pct,-0.1900841966506105
+Bangladesh,gdp_per_capita,health_expenditure_pct,-0.6055647139642264
+Bangladesh,unemployment_rate,health_expenditure_pct,-0.3207897382652306
+Bangladesh,agri_valueadded_pct,health_expenditure_pct,-0.04353334913273567
+Bangladesh,urbanization_pct,health_expenditure_pct,-0.18163048168395926
+Bangladesh,mean_wbgt,agri_valueadded_pct,-0.07570656551396106
+Bangladesh,fossil_fuel_pct,agri_valueadded_pct,-1.7304125944360906e-05
+Bangladesh,electricity_per_capita,agri_valueadded_pct,-0.35264875829692427
+Bangladesh,gdp_per_capita,agri_valueadded_pct,0.00379797277245613
+Bangladesh,unemployment_rate,agri_valueadded_pct,-0.5622427644145754
+Bangladesh,health_expenditure_pct,agri_valueadded_pct,-5.5827392616886674e-05
+Bangladesh,fossil_fuel_pct,urbanization_pct,3.5629686718435635e-06
+Bangladesh,electricity_per_capita,urbanization_pct,0.5143581034946468
+Bangladesh,co2_per_capita,urbanization_pct,0.2729790368095471
+Bangladesh,gdp_per_capita,urbanization_pct,-0.0001018337545437588
+Bangladesh,unemployment_rate,urbanization_pct,0.06522780252805017
+Bangladesh,health_expenditure_pct,urbanization_pct,8.446395489693884e-06
+Bangladesh,agri_valueadded_pct,urbanization_pct,-0.5235309891935236
+India,fossil_fuel_pct,renewable_energy_pct,-4.454118938684455e-06
+India,electricity_per_capita,renewable_energy_pct,0.13116929497432064
+India,co2_per_capita,renewable_energy_pct,-2.6615508638280283
+India,renewable_energy_pct,fossil_fuel_pct,-1.864051620068499
+India,electricity_per_capita,fossil_fuel_pct,-0.7624294262534526
+India,mean_wbgt,electricity_per_capita,0.05333028927405416
+India,renewable_energy_pct,electricity_per_capita,-1.632018253796477e-06
+India,fossil_fuel_pct,electricity_per_capita,9.059418086043424e-06
+India,co2_per_capita,electricity_per_capita,1.4029280235763915e-05
+India,mean_wbgt,co2_per_capita,-0.0076937260618290745
+India,fossil_fuel_pct,co2_per_capita,3.184341573704038e-06
+India,electricity_per_capita,co2_per_capita,0.9854853542809875
+India,mean_wbgt,gdp_per_capita,0.0016232797712089084
+India,renewable_energy_pct,gdp_per_capita,-1.050534915625565e-05
+India,fossil_fuel_pct,gdp_per_capita,7.220895513593456e-05
+India,electricity_per_capita,gdp_per_capita,1.1590086638458727e-05
+India,co2_per_capita,gdp_per_capita,6.038055412439389e-05
+India,unemployment_rate,gdp_per_capita,-6.138470387639893e-05
+India,health_expenditure_pct,gdp_per_capita,-1.7580083708955274
+India,agri_valueadded_pct,gdp_per_capita,0.00027526145247024254
+India,urbanization_pct,gdp_per_capita,1.8091233955294367e-06
+India,renewable_energy_pct,unemployment_rate,1.3024550627636663e-05
+India,fossil_fuel_pct,unemployment_rate,-7.29527359432043e-05
+India,electricity_per_capita,unemployment_rate,-0.003491275106293925
+India,co2_per_capita,unemployment_rate,-0.8272657498675263
+India,gdp_per_capita,unemployment_rate,-0.21399464739971727
+India,health_expenditure_pct,unemployment_rate,-0.24497848356741764
+India,urbanization_pct,unemployment_rate,-0.18826660608267795
+India,renewable_energy_pct,health_expenditure_pct,1.8680248461136647e-06
+India,fossil_fuel_pct,health_expenditure_pct,-1.4668805632597817e-05
+India,electricity_per_capita,health_expenditure_pct,-3.5282300036805424e-05
+India,co2_per_capita,health_expenditure_pct,-2.2633488985534138e-06
+India,gdp_per_capita,health_expenditure_pct,-1.052494399749612e-06
+India,unemployment_rate,health_expenditure_pct,8.44048916363745e-06
+India,agri_valueadded_pct,health_expenditure_pct,9.675120091926473e-06
+India,mean_wbgt,agri_valueadded_pct,-0.0003962403579818441
+India,fossil_fuel_pct,agri_valueadded_pct,-2.2019968246415425e-05
+India,co2_per_capita,agri_valueadded_pct,0.38811389123702866
+India,health_expenditure_pct,agri_valueadded_pct,0.5615728520846061
+India,renewable_energy_pct,urbanization_pct,-2.565728694492028e-06
+India,fossil_fuel_pct,urbanization_pct,1.6357864411068616e-05
+India,electricity_per_capita,urbanization_pct,1.11988112721956
+India,co2_per_capita,urbanization_pct,2.4125326123330805e-05
+India,gdp_per_capita,urbanization_pct,0.9317385554106499
+India,unemployment_rate,urbanization_pct,-2.9384452772262352e-05
+India,health_expenditure_pct,urbanization_pct,1.4724035109270293
+India,agri_valueadded_pct,urbanization_pct,5.0748560243671167e-05
+Nepal,fossil_fuel_pct,renewable_energy_pct,-1.024348283237085e-06
+Nepal,electricity_per_capita,renewable_energy_pct,-0.0003936616740353054
+Nepal,co2_per_capita,renewable_energy_pct,-0.8881867619039551
+Nepal,renewable_energy_pct,fossil_fuel_pct,-1.1069591774839407
+Nepal,electricity_per_capita,fossil_fuel_pct,0.0009745716194672425
+Nepal,co2_per_capita,fossil_fuel_pct,0.0672883192925734
+Nepal,mean_wbgt,electricity_per_capita,0.00014652403388321975
+Nepal,fossil_fuel_pct,electricity_per_capita,1.1790528579155542e-05
+Nepal,co2_per_capita,electricity_per_capita,-5.2634421622324535e-06
+Nepal,mean_wbgt,co2_per_capita,1.8311094137892114e-05
+Nepal,fossil_fuel_pct,co2_per_capita,5.40882113248953e-06
+Nepal,electricity_per_capita,co2_per_capita,0.5172707944028442
+Nepal,mean_wbgt,gdp_per_capita,2.729320719110917e-06
+Nepal,fossil_fuel_pct,gdp_per_capita,0.6380927579226847
+Nepal,electricity_per_capita,gdp_per_capita,0.00018725048187843638
+Nepal,unemployment_rate,gdp_per_capita,-0.7293060355478199
+Nepal,health_expenditure_pct,gdp_per_capita,-0.7238611137919886
+Nepal,urbanization_pct,gdp_per_capita,6.5790973355724295e-06
+Nepal,fossil_fuel_pct,unemployment_rate,0.00010433049208521299
+Nepal,health_expenditure_pct,unemployment_rate,3.3631543720427924e-05
+Nepal,agri_valueadded_pct,unemployment_rate,3.720381491597517e-05
+Nepal,urbanization_pct,unemployment_rate,5.289042172364806e-06
+Nepal,mean_wbgt,health_expenditure_pct,1.0369353917841228e-05
+Nepal,co2_per_capita,health_expenditure_pct,-2.148730902061629e-06
+Nepal,gdp_per_capita,health_expenditure_pct,-1.794380370803309e-06
+Nepal,unemployment_rate,health_expenditure_pct,0.04842622601573619
+Nepal,agri_valueadded_pct,health_expenditure_pct,3.8119843686526077e-06
+Nepal,mean_wbgt,agri_valueadded_pct,-0.033624167816526496
+Nepal,renewable_energy_pct,agri_valueadded_pct,0.011468668023317861
+Nepal,fossil_fuel_pct,agri_valueadded_pct,-0.05184151470593064
+Nepal,electricity_per_capita,agri_valueadded_pct,-0.06894757870975537
+Nepal,co2_per_capita,agri_valueadded_pct,-0.0815044724685749
+Nepal,gdp_per_capita,agri_valueadded_pct,-0.05696468506208918
+Nepal,unemployment_rate,agri_valueadded_pct,0.08952592378695659
+Nepal,health_expenditure_pct,agri_valueadded_pct,0.7458215713871945
+Nepal,urbanization_pct,agri_valueadded_pct,-1.4521352169423746e-06
+Nepal,electricity_per_capita,urbanization_pct,0.24903721718590796
+Nepal,gdp_per_capita,urbanization_pct,1.0694739069011858
+Nepal,unemployment_rate,urbanization_pct,0.2011585666388882
+Nepal,health_expenditure_pct,urbanization_pct,5.477085184128188
+Nepal,agri_valueadded_pct,urbanization_pct,-2.405193569486369
+Pakistan,fossil_fuel_pct,renewable_energy_pct,-5.840208539233833e-06
+Pakistan,electricity_per_capita,renewable_energy_pct,-0.5367265784348582
+Pakistan,co2_per_capita,renewable_energy_pct,-0.7041879478608435
+Pakistan,renewable_energy_pct,fossil_fuel_pct,-1.2120073550294581
+Pakistan,electricity_per_capita,fossil_fuel_pct,0.6880987397913235
+Pakistan,co2_per_capita,fossil_fuel_pct,0.6486187055925988
+Pakistan,mean_wbgt,electricity_per_capita,0.007420333571803311
+Pakistan,renewable_energy_pct,electricity_per_capita,-7.679526008226681e-06
+Pakistan,fossil_fuel_pct,electricity_per_capita,1.9714895034817275e-05
+Pakistan,co2_per_capita,electricity_per_capita,3.6460246213671347e-06
+Pakistan,mean_wbgt,co2_per_capita,0.1254644505415811
+Pakistan,renewable_energy_pct,co2_per_capita,-3.0405277352510786e-06
+Pakistan,fossil_fuel_pct,co2_per_capita,1.4085230953328585e-05
+Pakistan,electricity_per_capita,co2_per_capita,0.4914280039500394
+Pakistan,mean_wbgt,gdp_per_capita,0.032966097894633006
+Pakistan,renewable_energy_pct,gdp_per_capita,-2.2906213963402626e-05
+Pakistan,fossil_fuel_pct,gdp_per_capita,6.250069074999056e-05
+Pakistan,electricity_per_capita,gdp_per_capita,1.2625603541467155e-05
+Pakistan,unemployment_rate,gdp_per_capita,-0.37201191125333344
+Pakistan,agri_valueadded_pct,gdp_per_capita,0.08351390260459941
+Pakistan,urbanization_pct,gdp_per_capita,2.431771357616498e-06
+Pakistan,mean_wbgt,unemployment_rate,-1.5041453481133714e-06
+Pakistan,fossil_fuel_pct,unemployment_rate,1.5915731452387397e-05
+Pakistan,electricity_per_capita,unemployment_rate,6.259718968055176e-06
+Pakistan,co2_per_capita,unemployment_rate,1.480816799176005e-06
+Pakistan,gdp_per_capita,unemployment_rate,-2.0729493271227678e-05
+Pakistan,agri_valueadded_pct,unemployment_rate,3.544240552524573e-05
+Pakistan,urbanization_pct,unemployment_rate,1.2868248510385272e-06
+Pakistan,fossil_fuel_pct,health_expenditure_pct,8.92229053042153e-06
+Pakistan,electricity_per_capita,health_expenditure_pct,1.6384144043026155e-05
+Pakistan,co2_per_capita,health_expenditure_pct,1.71592838506455e-06
+Pakistan,gdp_per_capita,health_expenditure_pct,-0.018746855353975873
+Pakistan,unemployment_rate,health_expenditure_pct,0.05745751319689557
+Pakistan,agri_valueadded_pct,health_expenditure_pct,-0.09837714393777723
+Pakistan,urbanization_pct,health_expenditure_pct,-0.019877904005132858
+Pakistan,mean_wbgt,agri_valueadded_pct,-1.8093875238254794e-05
+Pakistan,fossil_fuel_pct,agri_valueadded_pct,-1.4171418386912291e-05
+Pakistan,electricity_per_capita,agri_valueadded_pct,3.623583186653718e-05
+Pakistan,unemployment_rate,agri_valueadded_pct,0.5081324619953239
+Pakistan,health_expenditure_pct,agri_valueadded_pct,-7.245881058868556e-05
+Pakistan,urbanization_pct,agri_valueadded_pct,7.750091502735226e-06
+Pakistan,renewable_energy_pct,urbanization_pct,-4.306211792801886e-05
+Pakistan,fossil_fuel_pct,urbanization_pct,8.078076012440993e-05
+Pakistan,electricity_per_capita,urbanization_pct,1.161311833383659e-05
+Pakistan,gdp_per_capita,urbanization_pct,1.5184492922856512
+Pakistan,unemployment_rate,urbanization_pct,2.7333472676880963
+Pakistan,agri_valueadded_pct,urbanization_pct,0.4799761706371333
+Sri Lanka,fossil_fuel_pct,renewable_energy_pct,-8.758471467405515e-06
+Sri Lanka,electricity_per_capita,renewable_energy_pct,-0.22072424381039
+Sri Lanka,co2_per_capita,renewable_energy_pct,-1.230947027463978
+Sri Lanka,renewable_energy_pct,fossil_fuel_pct,-1.1199198997986042
+Sri Lanka,electricity_per_capita,fossil_fuel_pct,0.013398494302208835
+Sri Lanka,co2_per_capita,fossil_fuel_pct,0.02966710215963918
+Sri Lanka,mean_wbgt,electricity_per_capita,9.977990638364854e-06
+Sri Lanka,renewable_energy_pct,electricity_per_capita,-1.597153092186699e-06
+Sri Lanka,fossil_fuel_pct,electricity_per_capita,4.703104673416578e-05
+Sri Lanka,mean_wbgt,co2_per_capita,5.130271113514885e-06
+Sri Lanka,renewable_energy_pct,co2_per_capita,-1.606684231598236e-06
+Sri Lanka,fossil_fuel_pct,co2_per_capita,1.5270581117352726e-05
+Sri Lanka,electricity_per_capita,co2_per_capita,1.1304000606239935
+Sri Lanka,mean_wbgt,gdp_per_capita,7.987062650771496e-06
+Sri Lanka,renewable_energy_pct,gdp_per_capita,-5.5983573547760284e-06
+Sri Lanka,fossil_fuel_pct,gdp_per_capita,4.857611439086751e-05
+Sri Lanka,electricity_per_capita,gdp_per_capita,8.9806910196256e-06
+Sri Lanka,health_expenditure_pct,gdp_per_capita,-1.5351248784944417e-06
+Sri Lanka,agri_valueadded_pct,gdp_per_capita,5.992412485764098e-06
+Sri Lanka,mean_wbgt,unemployment_rate,-5.87758113710507e-06
+Sri Lanka,fossil_fuel_pct,unemployment_rate,-2.1310520476353257e-05
+Sri Lanka,electricity_per_capita,unemployment_rate,-2.8648782523315285e-06
+Sri Lanka,gdp_per_capita,unemployment_rate,-1.021337999593663
+Sri Lanka,agri_valueadded_pct,unemployment_rate,1.253144506284734e-05
+Sri Lanka,mean_wbgt,health_expenditure_pct,-2.1938858472490136e-05
+Sri Lanka,renewable_energy_pct,health_expenditure_pct,8.259248108277457e-06
+Sri Lanka,fossil_fuel_pct,health_expenditure_pct,-4.761731146560607e-05
+Sri Lanka,electricity_per_capita,health_expenditure_pct,0.05877509045893778
+Sri Lanka,co2_per_capita,health_expenditure_pct,0.2353237552020991
+Sri Lanka,gdp_per_capita,health_expenditure_pct,-1.822850124748842e-05
+Sri Lanka,unemployment_rate,health_expenditure_pct,1.0212307730552108
+Sri Lanka,agri_valueadded_pct,health_expenditure_pct,0.7094172028337971
+Sri Lanka,mean_wbgt,agri_valueadded_pct,-2.609955504215329e-06
+Sri Lanka,renewable_energy_pct,agri_valueadded_pct,6.106738296957348e-06
+Sri Lanka,fossil_fuel_pct,agri_valueadded_pct,-2.704975481438995e-05
+Sri Lanka,electricity_per_capita,agri_valueadded_pct,-1.6851594499717465e-05
+Sri Lanka,gdp_per_capita,agri_valueadded_pct,-0.10203482937069572
+Sri Lanka,unemployment_rate,agri_valueadded_pct,-0.31086415038323156
+Sri Lanka,health_expenditure_pct,agri_valueadded_pct,1.4392704817817181e-06
+Sri Lanka,fossil_fuel_pct,urbanization_pct,4.0493586805824835
+Sri Lanka,gdp_per_capita,urbanization_pct,-7.039689904319432e-05
+Sri Lanka,unemployment_rate,urbanization_pct,2.661693920778268
+Sri Lanka,health_expenditure_pct,urbanization_pct,7.08648546951997
+Sri Lanka,agri_valueadded_pct,urbanization_pct,0.0006798445596972195
