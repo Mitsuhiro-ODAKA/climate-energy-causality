@@ -1,6 +1,6 @@
 # Visualizing Causal Chain of Heat Stress: A Three-Layer Network Analysis of Climate, Energy, and Socioeconomic Systems in South Asia
+
 熱ストレスがもたらす因果連鎖の可視化：南アジアにおける気候・エネルギー・社会経済の三層ネットワーク分析
----
 
 ## 概要
 
